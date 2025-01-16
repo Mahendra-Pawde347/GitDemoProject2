@@ -4,7 +4,7 @@ public class Demo
 {
 public static void main(String[] args) 
 {
-System.out.println("This is My Git Demo Prject");
+System.out.println("This is My Git Demo Project2");
 	
 }
 }
